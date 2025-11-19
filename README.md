@@ -1,12 +1,12 @@
 # decsfinder-wizard-wp-plugin
 
-Plugin wordpress, será utilizado no website do DeCS
+Plugin wordpress, será utilizado no website do DeCS.
 
 ## Função
 
-O plugin consiste em uma sequência de janelas que irão auxiliar usuários inicantes a utilizar o motor de indexação DeCS Finder IA
+O plugin consiste em uma sequência de janelas que irão auxiliar usuários inicantes a utilizar o motor de indexação DeCS Finder IA.
 
-A sequência de janelas apresenta três passos que são os seguintes:
+A sequência de janelas apresenta três passos, que são os seguintes:
 
 ### 1º Passo: Inserção do texto a ser analisado.
 
