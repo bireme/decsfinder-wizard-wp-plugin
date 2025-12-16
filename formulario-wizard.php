@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Formulário Wizard Modal
  * Description: Adiciona um shortcode [formulario_wizard_modal] que cria um modal oculto, abrível por qualquer botão nativo.
- * Version: 1.3
+ * Version: 1.4
  * Author: Gabriel Souza do Carmo
  * Text Domain: formulario-wizard-modal
  * Domain Path: /languages
@@ -35,7 +35,7 @@ function formulario_wizard_modal_shortcode() {
             <!-- <span class="textSub"><?php // echo esc_html__('Preencha os campos abaixo', 'formulario-wizard-modal'); ?></span> -->
         </div>
 
-        <form id="multiStepForm" action="https://decsfinder.bvsalud.org/dmf" method="POST" novalidate>
+        <form id="multiStepForm" action="https://decsfinder.bvsalud.org/" method="POST" novalidate>
 
           <!-- Etapa 1 -->
           <div class="form-step active">
