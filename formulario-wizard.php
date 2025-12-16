@@ -51,9 +51,9 @@ function formulario_wizard_modal_shortcode() {
           <div class="form-step">
             <label for="inputLang"><?php echo esc_html__('Qual o idioma do texto?', 'formulario-wizard-modal'); ?></label>
             <select name="inputLang" id="inputLang">
-              <option value=""><?php echo esc_html__('Não sei', 'formulario-wizard-modal'); ?></option>
-              <option value="fr"><?php echo esc_html__('Francês', 'formulario-wizard-modal'); ?></option>
+              <!--<option value=""><?php echo esc_html__('Não sei', 'formulario-wizard-modal'); ?></option>-->
               <option value="pt"><?php echo esc_html__('Português', 'formulario-wizard-modal'); ?></option>
+              <option value="fr"><?php echo esc_html__('Francês', 'formulario-wizard-modal'); ?></option>
               <option value="es"><?php echo esc_html__('Espanhol', 'formulario-wizard-modal'); ?></option>
               <option value="en"><?php echo esc_html__('Inglês', 'formulario-wizard-modal'); ?></option>
             </select>
@@ -82,9 +82,9 @@ function formulario_wizard_modal_shortcode() {
           <div class="form-step">
             <label for="outLang"><?php echo esc_html__('Em qual idioma quer os descritores?', 'formulario-wizard-modal'); ?></label>
             <select name="outLang" id="outLang">
-              <option value=""><?php echo esc_html__('Não sei', 'formulario-wizard-modal'); ?></option>
-              <option value="fr"><?php echo esc_html__('Francês', 'formulario-wizard-modal'); ?></option>
+              <!--<option value=""><?php echo esc_html__('Não sei', 'formulario-wizard-modal'); ?></option>-->
               <option value="pt"><?php echo esc_html__('Português', 'formulario-wizard-modal'); ?></option>
+              <option value="fr"><?php echo esc_html__('Francês', 'formulario-wizard-modal'); ?></option>
               <option value="es"><?php echo esc_html__('Espanhol', 'formulario-wizard-modal'); ?></option>
               <option value="en"><?php echo esc_html__('Inglês', 'formulario-wizard-modal'); ?></option>
             </select>
