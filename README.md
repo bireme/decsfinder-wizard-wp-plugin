@@ -65,5 +65,12 @@ No exemplo ilustrado abaixo, a função está sendo chamada no clique de um bot�
 <img width="488" height="239" alt="image" src="https://github.com/user-attachments/assets/5b3d68e4-98d1-4b29-b7b1-e6eeb40fe595" />
 
 
+### 3º Passo (Funcionalidade extra): Foi Adicionada ao plugin a função de redirecionar ao DeCS Finder, levando o idioma do site em que esta, de acordo com o Polylang, abaixo um exemplo de como chamar a função
+
+<img width="729" height="71" alt="image" src="https://github.com/user-attachments/assets/d2aa2823-071d-4fcf-959c-e7aa5961929f" />
+
+
+
+
 
 
