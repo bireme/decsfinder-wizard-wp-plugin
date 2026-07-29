@@ -235,6 +235,16 @@ document.addEventListener('DOMContentLoaded', function() {
     steps.forEach(step => step.classList.add('active'));
   });
 });
+
+function enviarParaDeCSFinder() {
+    const form = document.getElementById("multiStepForm");
+
+    // Opcional: abre o resultado em uma nova aba
+    form.target = "_blank";
+
+    // Envia o formulário com os valores atuais
+    form.submit();
+}
 </script>
 <?php }
 add_action('wp_footer', 'formulario_wizard_modal_js', 100);
