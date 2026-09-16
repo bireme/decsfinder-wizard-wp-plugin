@@ -30,7 +30,7 @@ function formulario_wizard_modal_shortcode() {
 
         <div class="divTitle">
             <span id="fwm-title" class="textTitle">
-              <?php echo esc_html__('Vamos ajudar você a identificar os termos DeCS/MeSH em seu texto.', 'formulario-wizard-modal'); ?>
+              <?php echo esc_html__('Vamos ajudar você a identificar os termos DeCS em seu texto.', 'formulario-wizard-modal'); ?>
             </span><br>
             <!-- <span class="textSub"><?php // echo esc_html__('Preencha os campos abaixo', 'formulario-wizard-modal'); ?></span> -->
         </div>

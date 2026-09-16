@@ -38,7 +38,7 @@ msgid "Fechar"
 msgstr "Cerrar"
 
 #: formulario-wizard.php:32
-msgid "Vamos ajudar você a identificar os termos DeCS/MeSH em seu texto."
+msgid "Vamos ajudar você a identificar os termos DeCS em seu texto."
 msgstr "Te ayudaremos a identificar los términos DeCS en tu texto."
 
 #: formulario-wizard.php:41
